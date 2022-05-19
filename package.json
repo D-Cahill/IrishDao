@@ -18,5 +18,21 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "vite": "^2.3.8"
-  }
+  },
+  "description": "### **Welcome 👋** To get started with this course, clone this repo and follow these commands:",
+  "main": "vite.config.js",
+  "devDependencies": {
+    "node": "^17.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D-Cahill/IrishDao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D-Cahill/IrishDao/issues"
+  },
+  "homepage": "https://github.com/D-Cahill/IrishDao#readme"
 }
